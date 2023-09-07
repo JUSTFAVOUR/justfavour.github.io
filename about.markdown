@@ -29,7 +29,7 @@ I’m a student of computer science with mathematics in the prestigious universi
 \__c:_ What I've been working on:
 
 - Web Hacking (API Hacking): I'm actively learning the intricacies of web hacking, with a special focus on API security.
-- Python Scripting: I'm utilizing Python to build scripts tailored for hacking, leveraging its versatility and power in the field.
+- Python Scripting: I'm utilizing Python to build scripts tailored for security, leveraging its versatility and power in the field.
 
 ---
 
