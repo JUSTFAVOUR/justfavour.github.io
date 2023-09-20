@@ -10,9 +10,8 @@ Welcome to [Justfavour's](http://#/) blog site.
 
 Welcome to my journey through the world of hacking, where you'll find an array of tricks, techniques, and valuable insights I've acquired from CTFs, real-life applications, research, and news.
 
-My name is Favour Odeyemi, called OTI. I’m a security research. Hence, I’m a **security** enthusiast.
-I’m a student of computer science with mathematics in the prestigious university of
-**Obafemi Awolowo University**
+My name is Favour Odeyemi, called OTI. I’m a security researcher. Hence, I’m a **security** enthusiast.
+I’m a student of computer science with mathematics in the prestigious **Obafemi Awolowo University**
 
 ## Interests
 
