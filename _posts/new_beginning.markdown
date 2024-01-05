@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "JUST A NEW DAY "
-date: 2024-01-01
-categories: RANDOM 
+date: 2024-01-05 19:40:50 +1000
+categories: random
 ---
 
 # IT A NEW YEAR 
