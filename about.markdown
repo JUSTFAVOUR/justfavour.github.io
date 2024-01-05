@@ -4,7 +4,7 @@ title: About JUSTfavour
 permalink: /about/
 ---
 
-Welcome to [Justfavour's](http://#/) blog site.
+Welcome to [Justfavour's](http://justfavour.github.io/) blog site.
 
 ## $WHOAMI
 
