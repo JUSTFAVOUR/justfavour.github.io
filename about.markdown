@@ -4,7 +4,7 @@ title: About JUSTfavour
 permalink: /about/
 ---
 
-Welcome to [Justfavour's](http://#/) blog site.
+Welcome to [Justfavour's](http://justfavour.github.io/) blog site.
 
 ## $WHOAMI
 
@@ -19,17 +19,15 @@ I’m a student of computer science with mathematics in the prestigious **Obafem
 
 - **Computer Security**: Ensuring the safety of digital landscapes has become a focal point of my interest. Understanding vulnerabilities and implementing measures to fortify systems has been both fascinating and rewarding.
 
-- **Data Compression**: The art of optimizing information handling and storage has always intrigued me. Finding efficient ways to represent and transmit data is a crucial aspect of modern computing.
 
-- **Social Engineering**: Exploring the human element of security has added a unique dimension to my interest in computer security. Understanding the psychology behind cyber threats and defenses is a captivating endeavor.
 
+- **Vunerability Research**: Exploring the world of ELFs and PEs to Find out how the work
 ## What am I doing now?
 
-\__c:_ What I've been working on:
+:_What I've been working on:
 
 - Web Hacking (API Hacking): I'm actively learning the intricacies of web hacking, with a special focus on API security.
-- Python Scripting: I'm utilizing Python to build scripts tailored for security, leveraging its versatility and power in the field.
-
+- Reverse Engineering : I have currently learning binary reverse engineering hopeful I so understand 
 ---
 
 You can find my projects on GitHub:
