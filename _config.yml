@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: JF
-email: justfavour369@gmail.com
+email: odeyemifavour1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there! I'm a curious soul exploring the world of hacking. With geeky enthusiasm, I dive into programs, uncover vulnerabilities, and aim to make a positive impact. Let's navigate this thrilling journey together, shaping a secure future in the ever-evolving digital landscape, learn and 
   send feedbacks to my mail.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: justfavour369
+twitter_username: justfavour69
 github_username: justfavour
 show_excerpts: true
 
