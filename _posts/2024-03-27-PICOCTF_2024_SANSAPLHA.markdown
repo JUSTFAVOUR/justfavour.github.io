@@ -34,22 +34,28 @@ system administrators, and anyone who wants to control their computer more effic
 ```
 
 Enough beating around the bush, let's get started with the challenge:
-![[Pasted image 20240326174629.png]]
+![Pasted image 20240326174629](https://github.com/JUSTFAVOUR/justfavour.github.io/assets/80600490/be897da4-fa18-4ffb-9267-fa2d74477cdd)
+
 
 After I logged in through SSH, I was presented with a minimized Ubuntu Terminal. 
 
-![[2024-03-26_17-48.png]]
+![2024-03-26_17-48](https://github.com/JUSTFAVOUR/justfavour.github.io/assets/80600490/7952aaf1-e446-43ad-bbbf-cbd80ceed138)
 
-As you can see, running the `ls` command, we got an error: "Unknown character detected". What do we do now?  
-![[Pasted image 20240326192523.png]]
+
+As you can see, running the `ls` command, we got an error: "Unknown character detected". What do we do now? 
+![Pasted image 20240326192523](https://github.com/JUSTFAVOUR/justfavour.github.io/assets/80600490/da2a6231-7ddd-4fd4-9f40-4b6c8609f04e)
+
 
 After entering some valid and invalid bash commands, the character `*` gave a meaningful output. But why is this happening? Well, it is because of something called shell expansion. Basically, shell expansion expands variables, commands, and wildcards. So when we typed `*`, we are telling the shell to execute **everything** in that directory. You can read more on shell expansion [here](https://medium.com/@ehoneahobed/shell-expansions-in-linux-what-it-means-and-how-to-take-advantage-of-it-41d471cb02dc).
 
-![[Pasted image 20240326194956.png]]
+![Pasted image 20240326194956](https://github.com/JUSTFAVOUR/justfavour.github.io/assets/80600490/8b4ca047-2d00-4c3b-8fae-06a65f343cb7)
+
 
 If we try to go one directory up by using the command `*/*`, using this, we can see a **flag.txt** file. This is interesting, why? Because we have found the location of our flag file. The problem now is to read the content of the file. We could use the `cat` command, but remember, we can't use ASCII letters. So, what we need to do is look for a way to access the `cat` command. Here is the solution:
 
-![[Pasted image 20240326204200.png]]
+![Pasted image 20240326204200](https://github.com/JUSTFAVOUR/justfavour.github.io/assets/80600490/333b11e2-9688-4f02-9e03-264523f99134)
+
+
 
 Now, let's break down each command precisely and straightforwardly:
 
