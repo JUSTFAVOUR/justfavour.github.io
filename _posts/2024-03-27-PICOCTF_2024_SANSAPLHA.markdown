@@ -13,26 +13,31 @@ For those that know nothing about BASH , there is a simple explaination from our
 
 
 ```
-Bash, short for "Bourne Again Shell," is a type of computer program that acts as a command interpreter
-or shell for Unix-like operating systems. It's essentially a text-based interface that allows users
+Bash, short for "Bourne Again Shell," is a type of computer program that
+acts as a command interpreter or shell for Unix-like operating systems.
+It's essentially a text-based interface that allows users
 to interact with their computer by typing commands into a terminal window.
 
 Here's a simplified explanation for a non-technical audience:
 
-Imagine your computer as a house, and the bash shell is like a magic door that lets you talk to the
-house and ask it to do things for you. You can give the bash shell commands, like
-"open the door" or "turn on the lights," and it will understand what you want and make it happen.
+Imagine your computer as a house, and the bash shell is like
+a magic door that lets you talk to the house and ask it to do
+things for you. You can give the bash shell commands, like
+"open the door" or "turn on the lights," and it will
+understand what you want and make it happen.
 
 
-For example, if you want to create a new folder to store your photos, you can tell bash to
-"make a new folder called 'Photos,'" and it will create the folder for you. Or if you
-want to see what files are in a folder, you can ask bash to "show me the files in this folder,"
+For example, if you want to create a new folder to store your photos,
+you can tell bash to "make a new folder called 'Photos,'" and
+it will create the folder for you. Or if you want to see what
+files are in a folder, you can ask bash to "show me the files in this folder,"
 and it will list them out for you.
 
-Bash is powerful because it allows you to do many different tasks on your computer just by typing commands,
-without needing to use a graphical interface like you would with a mouse and keyboard.
-It's often used by programmers, system administrators, and anyone who wants to control
-their computer more efficiently.
+Bash is powerful because it allows you to do many different tasks
+on your computer just by typing commands, without needing to use
+a graphical interface like you would with a mouse and keyboard.
+It's often used by programmers, system administrators, and
+anyone who wants to control their computer more efficiently.
 
 ```
 
