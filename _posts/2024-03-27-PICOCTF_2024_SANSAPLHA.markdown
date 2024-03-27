@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PICOCTF 2024 WRITEUP : SANSALPHA"
-date: 2024-04-01
+date: 2024-03-27
 categories: CTF_WRITEUP
 ---
 
