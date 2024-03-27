@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "SANSALPHA "
+title: "PICOCTF 2024 WRITEUP : SANSALPHA"
 date: 2024-03-27
 categories: CTF_WRITEUP
 ---
 
-# PICOCTF 2024 WRITEUP :SANSALPHA
 
 
 HMM ,PicoCTF 2024 was fun, given that it was my first live Capture The Flag (CTF) event. My teammates and I were thrilled, although we knew we were not prepared. However, we had to try because hacking is all about learning and having fun while doing it. The CTF was challenging, and we didn't complete all the challenges. One challenge that intrigued me was the last challenge in the General Skills section, "SANSALPHA". It is based on bash, specifically bash injection without using  letters, or "/". This detail was unknown to me from reading the challenge description. When I launched the instance , I could tell it had something to do with bash injection because I remembered watching  a CTF writeup by liveoverflow with the same challenge idea .
