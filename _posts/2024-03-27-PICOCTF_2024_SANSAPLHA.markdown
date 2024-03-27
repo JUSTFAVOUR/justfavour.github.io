@@ -78,4 +78,4 @@ Now, let's break down each command precisely and straightforwardly:
 
 
 TO LEARN MORE  CHECK OUT THIS [VIDEO](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D6D1LnMj0Yt0&ved=2ahUKEwj-ptb6pZKFAxX0WEEAHVYqCagQtwJ6BAggEAI&usg=AOvVaw2nOgft0SoPZujc9js9Vxhx) BY LIVEOVERFLOW .
-IF you have question you can send me a mail thanks :)  .
+IF you have questions you can send me a mail thanks :)  .
